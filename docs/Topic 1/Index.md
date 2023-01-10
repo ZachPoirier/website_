@@ -1,3 +1,2 @@
-#index
 
 Zach's Memex
